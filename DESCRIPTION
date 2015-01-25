@@ -1,0 +1,12 @@
+Package: bioutil
+Title: Some general bioinformatics utility functions
+Version: 0.1
+Authors@R: "Michael Chambers <mike@mdchambers.com> [aut, cre]"
+Description: Some general bioinformatics utility functions
+Depends: 
+    R (>= 3.1.1)
+License: GPL?
+LazyData: true
+Imports: dplyr,
+    org.Dm.eg.db,
+    AnnotationDbi
