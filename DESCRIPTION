@@ -9,4 +9,6 @@ License: GPL?
 LazyData: true
 Imports: dplyr,
     org.Dm.eg.db,
-    AnnotationDbi
+    AnnotationDbi,
+    GenomicRanges,
+    IRanges
