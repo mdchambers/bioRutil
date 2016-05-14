@@ -3,12 +3,14 @@ Title: Some general bioinformatics utility functions
 Version: 0.1
 Authors@R: "Michael Chambers <mike@mdchambers.com> [aut, cre]"
 Description: Some general bioinformatics utility functions
-Depends: 
+Depends:
     R (>= 3.1.1)
 License: GPL?
 LazyData: true
-Imports: dplyr,
+Imports:
+    dplyr,
     org.Dm.eg.db,
     AnnotationDbi,
     GenomicRanges,
     IRanges
+RoxygenNote: 5.0.1

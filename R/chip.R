@@ -2,7 +2,7 @@
 #'
 #' Reads a MACS2 .xls file into a GRAnges object with metadata
 #'
-#' @param file
+#' @param file Path to a macs2 xls file for import
 #' @return g A GRange
 #' @keywords MACS2 chip GRanges
 #' @export
